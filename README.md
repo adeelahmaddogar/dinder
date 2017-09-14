@@ -1,2 +1,2 @@
 # dinder
-Dinner application
+Dinder application

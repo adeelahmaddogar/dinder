@@ -4,9 +4,37 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Base.lproj/LaunchScreen.nib</key>
+		<key>AppIcon20x20@2x.png</key>
 		<data>
-		78QP+jSnYXKqC8ps+qfZT9iE6Ro=
+		AZhJWMEdLn15Yb9L4vzRjsdYhvY=
+		</data>
+		<key>AppIcon20x20@3x.png</key>
+		<data>
+		/sthVLEvIP+um9TjVwJQ2c/J8k8=
+		</data>
+		<key>AppIcon29x29@2x.png</key>
+		<data>
+		k//C6JL4ROsOQfceciHpbu24CEs=
+		</data>
+		<key>AppIcon29x29@3x.png</key>
+		<data>
+		OuJax4sxTjjtBx9w3kFYsca7+Ow=
+		</data>
+		<key>AppIcon40x40@2x.png</key>
+		<data>
+		xyLDupfPwzwKkDOgfijLdsUoQ4s=
+		</data>
+		<key>AppIcon40x40@3x.png</key>
+		<data>
+		CJCJoCW/CZTuun709Y/QNun81T4=
+		</data>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		MZiAPkba/lPk7xBd3Q3OUXrvMLo=
+		</data>
+		<key>AppIcon60x60@3x.png</key>
+		<data>
+		BBV5t5r4f8iWVKoN4t3N+9dsOTw=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -223,7 +251,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4y+2SG5zgk9tqXVyn+dXnZR9pFg=
+		3gaBa6K4Ad0WYi6iZeKdO3sm1D0=
+		</data>
+		<key>LaunchImage.png</key>
+		<data>
+		Oz4QSw+oeZ3uRCZhJZFb+gyR3Vo=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -247,20 +279,97 @@
 		</data>
 		<key>PlugIns/dinderTests.xctest/dinderTests</key>
 		<data>
-		BirDIHXwv1sm9NHi8ia0XPsf2Ag=
+		E4fO9/Lnp2L3Qwh1M0vF24hV6Vo=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Base.lproj/LaunchScreen.nib</key>
+		<key>AppIcon20x20@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			78QP+jSnYXKqC8ps+qfZT9iE6Ro=
+			AZhJWMEdLn15Yb9L4vzRjsdYhvY=
 			</data>
 			<key>hash2</key>
 			<data>
-			5J0CQ55o5GrkaoFtpH0c3Je3GcDHb6Pnou39IQUuPWU=
+			b8fFK/Brs0vE9diZuqtS8x0vCupargZIT/X6HPNjtL0=
+			</data>
+		</dict>
+		<key>AppIcon20x20@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/sthVLEvIP+um9TjVwJQ2c/J8k8=
+			</data>
+			<key>hash2</key>
+			<data>
+			DSxuKUmuutWCkEeGhOfPdQZJwQ3V94YkuCPkE797hDI=
+			</data>
+		</dict>
+		<key>AppIcon29x29@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			k//C6JL4ROsOQfceciHpbu24CEs=
+			</data>
+			<key>hash2</key>
+			<data>
+			ldxzYM7bqKIv+xjKlzFC+3qWHRrMaL0K8F5eIz5CCys=
+			</data>
+		</dict>
+		<key>AppIcon29x29@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OuJax4sxTjjtBx9w3kFYsca7+Ow=
+			</data>
+			<key>hash2</key>
+			<data>
+			gx6Mi1toVq8O+FHA8lKzltYwogRhgOKKjHUuDUVPFow=
+			</data>
+		</dict>
+		<key>AppIcon40x40@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xyLDupfPwzwKkDOgfijLdsUoQ4s=
+			</data>
+			<key>hash2</key>
+			<data>
+			Wqvl0g/E3c4Q2GTdzwU1i8CH44lZPuNJKh3Up8yrHLM=
+			</data>
+		</dict>
+		<key>AppIcon40x40@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CJCJoCW/CZTuun709Y/QNun81T4=
+			</data>
+			<key>hash2</key>
+			<data>
+			xEXeL5pUNyBo/XEkec+PVByhBZY2cfxFY6iNv4fY7nM=
+			</data>
+		</dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MZiAPkba/lPk7xBd3Q3OUXrvMLo=
+			</data>
+			<key>hash2</key>
+			<data>
+			BlFTJ++MuRgDfpBgQzGRjy5xz5rX7x4ERGruTI0tENI=
+			</data>
+		</dict>
+		<key>AppIcon60x60@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BBV5t5r4f8iWVKoN4t3N+9dsOTw=
+			</data>
+			<key>hash2</key>
+			<data>
+			7UlUjd4CVhJnQAISakSb5YMnWyQaDWSsJIbshCXIC8g=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -837,6 +946,17 @@
 			QFa4oVkeCq7DUecWrEpwl9K3/xP42pymdP4ohq/DBZQ=
 			</data>
 		</dict>
+		<key>LaunchImage.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Oz4QSw+oeZ3uRCZhJZFb+gyR3Vo=
+			</data>
+			<key>hash2</key>
+			<data>
+			QA70V6CPZkEJzFinYe1sveQqU2tTfs2QHF2/xd2PcMI=
+			</data>
+		</dict>
 		<key>PlugIns/dinderTests.xctest.dSYM/Contents/Info.plist</key>
 		<dict>
 			<key>hash</key>
@@ -885,11 +1005,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BirDIHXwv1sm9NHi8ia0XPsf2Ag=
+			E4fO9/Lnp2L3Qwh1M0vF24hV6Vo=
 			</data>
 			<key>hash2</key>
 			<data>
-			iMHGwscA/nOsWvaUqZcYT+plEY7x4WQ8JyMGG63J0pw=
+			EytlTfcFdh+owK/S25wAM375GDYAhIWrY+VTdDSCOac=
 			</data>
 		</dict>
 	</dict>
